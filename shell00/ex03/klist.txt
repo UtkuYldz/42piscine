@@ -1,0 +1,6 @@
+Credentials cache: API:931EEC8D-7A21-439E-9ADC-C67944C8A91D
+        Principal: uyildiz@42ISTANBUL.COM.TR
+
+  Issued                Expires             Flags    Principal
+Aug 31 13:41:28 2021  Aug 31 23:41:28 2021  FPRIA  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Aug 31 13:41:29 2021  Aug 31 23:41:28 2021  FPA    HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
